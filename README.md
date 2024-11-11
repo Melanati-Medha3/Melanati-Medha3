@@ -1,3 +1,8 @@
+
+
+
+
+
 public class Resume {
     private String name;
     private Contact contact;
