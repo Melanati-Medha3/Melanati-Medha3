@@ -3,9 +3,7 @@ Hi, I'm Melanati Medha Sree, a passionate and driven Computer Science Engineer w
 With a solid educational background from Ravindra College of Engineering, I've developed expertise in programming languages (C, Java, DSA), web development (HTML, CSS, JavaScript), and database management. My experience with projects like Online Banking System and Text Classification with TensorFlow has honed my skills in software development and artificial intelligence.
 
 
-
-
-
+*/java code/*
 public class Resume {
     private String name;
     private Contact contact;
